@@ -9,7 +9,7 @@ function me() {
     return {
         name: "Adam Elmi",
         age: getAge(2000),
-        email: "admacade123@gmail.com",
+        email: "adamcade123@gmail.com",
         phone: "+252634709061",
         address: "Hargeisa,Somaliland",
         website: "Coming Soon",
