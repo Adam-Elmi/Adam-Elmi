@@ -11,7 +11,7 @@ function me() {
         age: getAge(2000),
         email: "adamcade123@gmail.com",
         phone: "+252634709061",
-        address: "Hargeisa,Somaliland",
+        address: "Hargeisa, Somaliland",
         website: "Coming Soon",
         github: "https://github.com/Adam-Elmi",
         favQuote: "The only way to do great work is to love what you do. - Steve Jobs",
