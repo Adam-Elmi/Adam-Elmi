@@ -1,1 +1,1 @@
-*.smark linguist-language=INI
+*.smark linguist-language=INI linguist-detectable=true
